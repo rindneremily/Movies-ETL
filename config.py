@@ -1,1 +1,1 @@
-db_password = 'ikura00'
+db_password = 'ikura0098'
